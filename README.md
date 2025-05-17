@@ -135,8 +135,10 @@ jupyter notebook Notebooks/Healthcare-Classification.ipynb
 
 ## Contributors
 
-* **Nouran Hassan (@Nouran246)** – Project Lead
-* Contributions from team members for preprocessing, model building, and documentation
+- [Nouran Hassan](https://github.com/Nouran246)
+- [Malak Mohamed](https://github.com/MalakMohameed)
+- [Yahia-Elshobokshy](https://github.com/Yahia-Elshobokshy)
+- [Roaa Khaled](https://github.com/Rowlkh)
 
 ---
 
